@@ -217,7 +217,7 @@ const Juego = () => {
 
 
   localStorage.clear()
-  navigate('/')
+  navigate('/juegoslicklemia/build/')
 }
   return (
     <div>

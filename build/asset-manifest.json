@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/juegoslicklemia/build/static/css/main.62a00da8.css",
-    "main.js": "/juegoslicklemia/build/static/js/main.1072e31d.js",
+    "main.js": "/juegoslicklemia/build/static/js/main.542d20bc.js",
     "static/js/787.851e25f3.chunk.js": "/juegoslicklemia/build/static/js/787.851e25f3.chunk.js",
     "index.html": "/juegoslicklemia/build/index.html",
     "main.62a00da8.css.map": "/juegoslicklemia/build/static/css/main.62a00da8.css.map",
-    "main.1072e31d.js.map": "/juegoslicklemia/build/static/js/main.1072e31d.js.map",
+    "main.542d20bc.js.map": "/juegoslicklemia/build/static/js/main.542d20bc.js.map",
     "787.851e25f3.chunk.js.map": "/juegoslicklemia/build/static/js/787.851e25f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62a00da8.css",
-    "static/js/main.1072e31d.js"
+    "static/js/main.542d20bc.js"
   ]
 }
